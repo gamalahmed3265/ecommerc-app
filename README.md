@@ -1,11 +1,4 @@
-# E-ᑕOᗰᗰEᖇᑕE ᗩᑭᑭᒪIᑕᗩTIOᑎ ᑌI Iᑎ ᖴᒪᑌTTEᖇ
 
-ᕼI 👋 I ᖇEᑕEᑎTᒪY STᗩᖇTEᗪ ᗯITᕼ ᗩᑎ E-ᑕOᗰᗰEᖇᑕE ᗩᑭᑭ ᗩᑎᗪ ᗪEᑕIᗪEᗪ TO SᕼᗩᖇE ᗰY E᙭ᑭᒪOᖇᗩTIOᑎ. I TᖇIEᗪ TO ᗰᗩKE IT SᒪEEK ᗩᑎᗪ ᗩᑕᑕOᖇᗪIᑎG TO ᒪᗩTEST ᗪESIGᑎ TᖇEᑎᗪS.
-
-## ᖴOᒪᒪOᗯ
-
-- [Twitter](https://www.twitter.com/ishaileshmisra)
-- [Instagram](https://www.instagram.com/ishaileshmishra)
 
 ## SᑕᖇEEᑎSᕼOTS
 
@@ -21,10 +14,30 @@
 
 <img width="332" alt="five" src="https://github.com/gamalahmed3265/ecommerc-app/assets/75225936/43b37c66-9937-496a-8697-9a5d445f0dd6">
 
+Sure, here are the steps on how to run a Flutter app:
 
+1. Install the Flutter SDK. You can download the SDK from the Flutter website.
+2. Open a code editor and create a new Flutter project. You can do this by running the following command in the terminal:
 
-<b>Iᖴ YOᑌ ᒪIKEᗪ IT, I'ᗰ SᑌᖇE YOᑌ ᗩᖇE GOIᑎG TO ᒪIKE TᕼESE ᗩᒪSO. ᐯISIT ᗷEᒪOᗯ ᒪIᑎKS</b>
+```
+flutter create my_app
+```
 
-## ᗩᑭI IᑎᖴOᖇᗰᗩTIOᑎ (ᑌᑎᗪEᖇ ᗪEᐯEᒪOᑭᗰEᑎT)
+3. Open the `main.dart` file in the code editor. This is the main entry point for your Flutter app.
+4. Add some code to the `main.dart` file. For example, you could add a button that prints "Hello, world!" to the console.
+5. Save the `main.dart` file.
+6. In the terminal, navigate to the directory where the Flutter project is located.
+7. Run the following command to build and run the app:
 
-Nee
+```
+flutter run
+```
+
+Flutter will build and run the app. The app will be displayed in the emulator or on your device.
+
+Here are some additional tips for running a Flutter app:
+
+* If you are running your app on an emulator, you need to make sure that the emulator is running in the same resolution and orientation as your device.
+* If you are running your app on a device, you need to make sure that the device is connected to your computer.
+* You can use the `hot reload` feature to see changes to your code without having to rebuild and run your app again. To use hot reload, press `R` while your app is running.
+* You can use the `flutter doctor` command to check for any problems with your Flutter installation.
